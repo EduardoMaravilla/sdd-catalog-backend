@@ -72,7 +72,7 @@ Como usuario, tienes los siguientes derechos:
 4. **Restricción:** Restringir el procesamiento de tus datos en ciertas circunstancias.
 5. **Portabilidad:** Obtener una copia de tus datos en un formato estructurado y legible por máquina.
 
-Para ejercer estos derechos, puedes contactarnos en **[eduardomaravilla@hotmail.com]**.
+Para ejercer estos derechos, puedes contactarnos en **[eduardomaravilladev@hotmail.com]**.
 
 ---
 
@@ -88,13 +88,13 @@ Esta información se utiliza exclusivamente para monitorear y garantizar el uso 
 ## Cambios en esta política
 Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento. Publicaremos las modificaciones en esta página y, si los cambios son significativos, te notificaremos a través de los medios adecuados.
 
-La última actualización de esta política fue el **[fecha]**.
+La última actualización de esta política fue el **[2024]**.
 
 ---
 
 ## Contacto
 Si tienes preguntas o inquietudes sobre esta Política de Privacidad, contáctanos en:
 
-- **Correo electrónico:** [eduardomaravilla@hotmail.com]
+- **Correo electrónico:** [eduardomaravilladev@hotmail.com]
 
 ---
