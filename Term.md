@@ -40,7 +40,7 @@ We may modify, suspend, or discontinue the API or any part of its functionality 
 These terms shall be governed by the laws of the **Republic of El Salvador**. Any disputes will be resolved in the competent courts of El Salvador.
 
 ## **10. Privacy Policy**
-Using the API implies acceptance of our [Privacy Policy](link). Personal data collected during API use will be handled in accordance with this policy.
+Using the API implies acceptance of our [Privacy Policy](https://github.com/EduardoMaravilla/sdd-catalog-backend/blob/master/PrivacyPolicy.md). Personal data collected during API use will be handled in accordance with this policy.
 
 ---
 # Términos y Condiciones de Uso de la API
@@ -85,4 +85,4 @@ Podemos modificar, suspender o descontinuar la API o cualquier parte de su funci
 Estos términos se regirán por las leyes de la **República de El Salvador**. Cualquier disputa relacionada será resuelta en los tribunales competentes de El Salvador.
 
 ## **10. Política de privacidad**
-El uso de la API implica la aceptación de nuestra [Política de Privacidad](enlace). Los datos personales recolectados durante el uso de la API serán tratados conforme a dicha política.
+El uso de la API implica la aceptación de nuestra [Política de Privacidad](https://github.com/EduardoMaravilla/sdd-catalog-backend/blob/master/PrivacyPolicy.md). Los datos personales recolectados durante el uso de la API serán tratados conforme a dicha política.
