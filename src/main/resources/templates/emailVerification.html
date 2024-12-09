@@ -1,0 +1,30 @@
+<table xmlns:th="http://wwww.thymeleaf.org"
+        style="font-family: Arial, sans-serif;background-color: #1055b5;margin: 0;padding: 0;">
+        
+    <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 5px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <div style="text-align: center; padding: 20px 0; background-color: #007bff; color: #ffffff; border-radius: 5px 5px 0 0;">
+            <h1 style="margin: 0">Email Verification</h1>
+        </div>
+        <div style="padding: 20px">
+            <h2 style="color: #333333">Hello, <span th:text="${username}"> </span></h2>
+            <p style="line-height: 1.6; color: #555555">
+                Thank you for registering at SDD-CATALOG. Please verify your email address by clicking the button below.
+            </p>
+            <div style="text-align: center; margin: 20px 0;">
+                <a th:href="${frontedUrl} + '/verify-email?token=' + ${token}"
+                   style="background-color: #007bff; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 16px;">
+                    Verify Email
+                </a>
+            </div>
+            <p style="line-height: 1.6; color: #555555">
+                If you did not sign up for this account, please ignore this email.
+            </p>
+            <p style="line-height: 1.6; color: #555555">
+                Best regards,<br/>The SDD-Catalog Team
+            </p>
+        </div>
+        <div style="text-align: center;padding: 20px;font-size: 12px;color: #777777;" >
+            <p th:text="'© 2024 SDD-CATALOG.'"> </p>
+        </div>
+    </div>
+</table>
