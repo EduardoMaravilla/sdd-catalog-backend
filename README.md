@@ -45,7 +45,6 @@ Provide a practical, accessible, and secure tool that facilitates the creation, 
 - [🗂 Project Structure](#-project-structure)
 - [📡 Main Endpoints](#-main-endpoints)
 - [🛠️ Technologies Used](#-technologies-used)
-- [🤝 Contributions](#-contributions)
 - [👎 License](#-license)
 - [📞 Contact](#-contact)
 
