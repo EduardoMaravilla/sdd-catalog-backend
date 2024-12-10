@@ -38,7 +38,7 @@ import org.springframework.http.HttpHeaders;
         servers = {
                 @Server(
                         description = "Development Server",
-                        url = "http://localhost:9595/api/v1"
+                        url = "http://localhost:8080/api/v1"
                 ),
                 @Server(
                         description = "Production Server",
