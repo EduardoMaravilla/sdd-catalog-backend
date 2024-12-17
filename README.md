@@ -139,6 +139,7 @@ spring.datasource.password=root
 > Add some data to the tables to test the backend.
 
  - The backend is ready for use.
+   
 ---
 
 ## 📚 **API Usage**
@@ -243,6 +244,7 @@ This section provides an overview of the project's folder structure, key files, 
 | `/turbos`                                            | Manages turbo information.                   |
 | `/turbo-types`                                       | Manages turbo types information.             |
 
+---
 
 ## 🛠️ **Technologies Used**
 
